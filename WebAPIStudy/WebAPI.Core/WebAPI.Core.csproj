@@ -53,6 +53,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Config\WebApiConfig.cs" />
+    <Compile Include="Controller\AccessTestController.cs" />
     <Compile Include="Controller\FilesController.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
